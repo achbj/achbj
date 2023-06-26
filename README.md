@@ -18,6 +18,8 @@ I'm familiar with
     * Tableau
   * Machine Learning
     * python
+    * R
+    * Libraries(sklearn, pytorch, tensorflow)
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
