@@ -19,7 +19,6 @@ I'm familiar with
   * Machine Learning
     * python
     * R
-    * Libraries(sklearn, pytorch, tensorflow)
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
