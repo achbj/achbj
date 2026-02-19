@@ -4,9 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@achbj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/achbj)
 
-I am Bj Acharya 🧑🏻‍💻. I am from Panauti, Nepal and currently doing my BSc(Hons) Computing in Softwarica College of IT & Ecommerce 🏫. I love to explore and learn about new things.
-## 👯 Communities
-* Yet to be involved
+Machine Learning, Data and AI enthusiast with experience across research and industry projects. Worked with Python based data pipelines, applied machine learning, and handling imbalanced real world datasets, particularly in healthcare and analytics domains. Experienced in building end-to-end data solutions, collaborating within cross functional teams, and translating complex data into actionable insights. Seeking a place to broden the horizen on my AI/ML/data knowledge and insights to be part of forefront that is going to bring the change in coming years.
 
 ## ⚡ Technologies
 I'm familiar with 
@@ -19,6 +17,12 @@ I'm familiar with
   * Machine Learning
     * python
     * R
+  * Data
+    * SQL
+    * MongoDb
+    * DuckDb
+    * Neo4j
+   
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
